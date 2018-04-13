@@ -11,9 +11,13 @@ testjob.sql.gz : dump of sql
 2. Upload wp-content folder from this repository on your fresh wp wp-content
 3. In your wp-config.php file use  *$table_prefix  = 'fdgr_';*
 4. Admin access:
+
 yoursite.com/wp-admin
+
 login: director
+
 pass: qweqwe
+
 5. After that your should install 2 plugins:
 
 a) *Advanced Custom Fields Pro* https://github.com/sholex/advanced-custom-fields-pro
