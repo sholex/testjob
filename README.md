@@ -16,6 +16,7 @@ login: director
 pass: qweqwe
 5. After that your should install 2 plugins:
 a) *Advanced Custom Fields Pro* https://github.com/sholex/advanced-custom-fields-pro
+
 b) *Woocommerce* from official repo
 
 # Functionality
